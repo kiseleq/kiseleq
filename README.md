@@ -1,5 +1,9 @@
 ### Hi there 👋
+I’m Andrew, a Data Analyst
 
+**About me**
+📖 Student of the 4th year. Specialty "applied mathematics and computer science"
+💻 Loves working with numbers and learning new skills
 <!--
 **kiseleq/kiseleq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
