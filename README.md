@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Andrew, a Data Analyst
+I’m Andrey, a BI Analyst
 
 **About me**
 
